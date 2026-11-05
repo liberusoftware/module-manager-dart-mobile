@@ -1,0 +1,25 @@
+{
+  "repository": "module-manager-dart-mobile",
+  "capabilityKey": "liberusoftware/module-manager",
+  "presentation": "dart-mobile",
+  "package": "module_manager_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/boilerplate/nextjs/module-manager.md",
+  "presentationPlan": "projects/boilerplate/features/module-manager.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
